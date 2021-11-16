@@ -1,4 +1,4 @@
-@media only screen and (max-width: 1450px) {
+@media only screen and (max-width: 1600px) {
   main {
     position: relative;
     width: 70%;
@@ -10,8 +10,8 @@
   }
   #checkout-title {
     font-family: Mon, Arial, Helvetica, sans-serif;
-    text-align: center;
     margin: 15px 0;
+    text-align: center;
   }
   main form {
     margin-right: 150px;
@@ -97,6 +97,7 @@
   }
   #products-preview {
     position: relative;
+   
   }
   #product-painel {
     position: absolute;
@@ -113,6 +114,7 @@
     display: flex;
     margin: 10px 0;
   }
+  
   .product img {
     width: 30%;
     border-radius: 10px;
